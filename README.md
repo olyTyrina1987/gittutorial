@@ -1,1 +1,1 @@
-# diplim_2022
+# diplom_2022
